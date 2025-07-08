@@ -1,4 +1,6 @@
-## Hi there 👋
+## HI WELCOME TO MY PROFILE 👋
+
+![Thann Sykes](img/SANCTIFY.jpeg)
 
 <!--
 **thannsykes/thannsykes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning **VueJS**
+- 📫 How to reach me: ...
+
+![genxsis](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Ezc2hxaXUwZ3h6dWRyMHM3d2U2c2ZuNjlqaGg0czczMnUwZG90NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f6FV8RvUwQzDmT1ihv/giphy.gif)
