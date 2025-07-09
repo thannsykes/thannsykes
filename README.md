@@ -1,6 +1,6 @@
 ## HI WELCOME TO MY PROFILE 👋
 
-![Thann Sykes](img/SANCTIFY.jpeg)
+![Thann Sykes](img/download.jpeg)
 
 <!--
 **thannsykes/thannsykes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning **VueJS**
-- 📫 How to reach me: ...
+ 
 
-![genxsis](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Ezc2hxaXUwZ3h6dWRyMHM3d2U2c2ZuNjlqaGg0czczMnUwZG90NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f6FV8RvUwQzDmT1ihv/giphy.gif)
+##### Skills
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> 
+
+##### Social
+ <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/>
+
